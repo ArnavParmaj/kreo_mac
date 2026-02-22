@@ -1,4 +1,4 @@
-# Kreo Swarm Mac
+# Kreo Software for Mac
 An open source macOS configuration app for the Kreo Swarm keyboard.
 
 > ⚠️ **Work in Progress** — This project is in early development. The Windows-only official software prompted this effort to bring full keyboard configuration support to macOS.
